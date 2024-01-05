@@ -1,7 +1,5 @@
-body{
-    background-color: aliceblue;
-}
-
-body h1{
-    background-color: aqua;
-}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}/*# sourceMappingURL=styles.css.map */
